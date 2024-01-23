@@ -8,6 +8,8 @@ public class Config {
 	
 	public static WebDriver driver ;
 	
+	public static WebDriver driver2 ;
+	
 	public static void confchrome() {
 		System.setProperty("webdriver.chrome.driver", "c:/chromedriver.exe");
 	}
